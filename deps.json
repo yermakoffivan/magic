@@ -1,0 +1,20 @@
+{
+ "generated": "2026-11-01T19:44:38Z",
+ "commit": "af9cddbabbef6d7e89bb1d3c3b0def76823eb1c5",
+ "open": {
+  "critical": 0,
+  "high": 0,
+  "moderate": 0,
+  "low": 0
+ },
+ "open-count": 0,
+ "suppressed": {
+  "critical": 0,
+  "high": 0,
+  "moderate": 0,
+  "low": 0
+ },
+ "suppressed-count": 0,
+ "findings-count": 0,
+ "findings": []
+}
